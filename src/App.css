@@ -1,0 +1,122 @@
+.body{
+  background: #ffefba;
+  background: -webkit-linear-gradient(to right, #ffefba,#f59c53c9); 
+  background: linear-gradient(to right, #ffefba,#f59c53c9); 
+
+margin-top:-60px;
+}
+.carousel {
+  height:  530px !important;  
+  overflow: hidden;
+}
+.zomm{
+  /* font-family: 'Gloria Hallelujah', cursive; */
+/* font-family: 'Permanent Marker', cursive; */
+font-family: 'Covered By Your Grace', cursive;
+font-size: 90px;
+color: white;
+margin-top: -350px;
+z-index: 20;
+}
+.tike{
+margin-left: 1250px;
+  font-size: 40px;
+  margin-top: 70px;
+}
+.kamalt{
+  margin-top: 80px;
+  font-size: 40px;
+  margin-left: 1250px;
+  color:red;
+}
+.kamalt a {
+  color: red ;
+}
+.hazem{
+  height: 600px;
+  width: 1400px;
+ 
+  margin-top: 60px;
+margin-left: -90px;
+}
+.caro{
+  width: 100%;
+  margin-top: -30px;
+  margin-right: -60px;
+  overflow-y:hidden;
+}
+.App {
+  text-align: center;
+}
+.bu{
+  background-color: rgba(102, 20, 20, 0.753)
+}
+.p{
+  text-align: right;
+  color: black;
+}
+.icc{
+  width:10px;
+  height: 30px;
+}
+.img{
+  height:40px;
+  width: 40px;
+}
+.contact{
+  margin-top:50px;
+  padding-top: 90px;
+margin-right: -80px;
+  height: 300px;
+  width:600px;
+  
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.zina{
+padding-left: 10px;
+color: bisque;
+font-size: 25px;
+font-family: 'Rock Salt', cursive;
+margin-bottom: 50px;
+
+}
+ .navbar {
+   margin-bottom: 0 ;
+ }
+ 
+ .bleu{
+   display: inline-block;
+   margin-top:40px;
+ }
+h1{
+  font-size: 40px;
+  color:rgb(255, 28, 28);
+ 
+  font-family: 'Rock Salt', cursive;
+  margin-bottom: 30px;
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
